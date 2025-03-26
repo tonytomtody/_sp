@@ -1,0 +1,9 @@
+
+main.o:	file format mach-o arm64
+
+Sections:
+Idx Name             Size     VMA              Type
+  0 __text           00001180 0000000000000000 TEXT
+  1 __gcc_except_tab 000000ac 0000000000001180 DATA
+  2 __cstring        00000015 000000000000122c DATA
+  3 __compact_unwind 000005a0 0000000000001248 DATA
