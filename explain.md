@@ -34,6 +34,6 @@ void DOWHILE() {
 作業要求增加的功能為原創，其餘為老師的原檔
 
 ## 習題5: 寫一個 C 語言的程式，然後用 gcc 與 objdump 做出下列結果
+我實作了一個link list的add delete insert功能
 [習題 5](./week6//readme.md)
-作業要求增加的功能為原創，其餘為老師的原檔
-
+原創
